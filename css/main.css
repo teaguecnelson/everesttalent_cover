@@ -109,8 +109,6 @@ body {
   height: 100vh;
   background-color: #231F20;
   overflow: hidden; }
-  @media screen and (max-width: 915px) {
-         .hero {height: 95vh;}}
 
 .hero_img {
   position: relative;
