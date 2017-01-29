@@ -3,7 +3,7 @@
 \*--------------------*/
 h1 {
   font-family: 'Playfair Display', serif;
-  font-size: 3.5rem;
+  font-size: 3.75rem;
   font-weight: 300; 
   text-align: center;
   margin-top: 1.5rem;
@@ -112,11 +112,11 @@ body {
   position: absolute;
   background-color: #ffffff;
   bottom: 40%;
-  left: 25%;
-  right: 25%;
+  left: 20%;
+  right: 20%;
   text-align: center;
   opacity: 100;
-  padding: 2.5rem 0rem;
+  padding: 2.75rem 2rem;
 }
 
 @media screen and (max-width: 915px) {
