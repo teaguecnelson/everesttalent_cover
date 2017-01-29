@@ -14,41 +14,37 @@ h1 {
 
 @media screen and (max-width: 915px) {
   h1 {
-    font-size: 3.75rem; 
+    font-size: 2.5rem; 
   } 
 }
 
 h2 {
-  font-size: 2rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  text-align: center;
   font-family: 'open sans', sans-serif, regular;
+  font-size: 2rem;
   font-weight: 200;
-  color: #999999;
+  text-align: center;
   margin-top: 2.5rem;
   margin-bottom: 2.5rem;
-  font-weight: 700;
+  color: #999999;
   line-height: 2.75rem; 
 }
 
-h3 {
-  font-size: 1.6rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  text-align: center;
+h3 {       
   font-family: 'open sans', sans-serif, regular;
+  font-size: 1.25rem;
   font-weight: 200;
-  color: #999999;
+  text-align: center;
   margin-top: 1.5rem;
-  margin-bottom: 1.5rem; 
+  margin-bottom: 1.5rem;
+  color: #999999;
+  line-height: 2.75rem; 
 }
 
 p {
-  font-size: 1.15em;
-  text-align: left;
   font-family: 'open sans', regular;
+  font-size: 1.15em;
   font-weight: 300;
+  text-align: left;
   color: #231f20;
   line-height: 1.8rem; 
 }
@@ -60,31 +56,6 @@ a {
 
 a:hover {
   color: gold; 
-}
-
-.scroll-link {
-  display: inline;
-  padding-left: 20px;
-  font-size: 1.1rem;
-  font-family: 'open sans', regular;
-  font-weight: 300;
-  color: #231f20;
-  line-height: 1.25rem;
-}
-
-@media screen and (max-width: 915px) {
-  .scroll-link {
-    font-size: 1.5rem;
-    margin-top: .5rem; 
-  } 
-}
-
-.navbar-inverse .navbar-nav > li > a:hover {
-  color: gold;
-}
-
-.navbar-inverse .navbar-nav > li > a:focus {
-  color: #818080; 
 }
 
 /*--------------------*\
