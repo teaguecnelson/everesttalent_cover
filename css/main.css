@@ -120,9 +120,9 @@ body {
 
 @media screen and (max-width: 915px) {
   .slogan {
-    left: 10%;
-    right: 10%;
-    bottom: 12%; 
+    left: 8%;
+    right: 8%;
+    bottom: 10%; 
     padding: 0rem;
   } 
 }
