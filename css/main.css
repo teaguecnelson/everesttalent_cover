@@ -40,12 +40,11 @@ h3 {
 }
 
 p {
-  font-family: 'open sans', regular;
-  font-size: 1.15em;
-  font-weight: 300;
-  text-align: left;
+  font-family: 'cabin', regular;
+  font-size: 0.5rem;
+  font-weight: 100;
+  text-align: center;
   color: #231f20;
-  line-height: 1.8rem; 
 }
 
 a {
