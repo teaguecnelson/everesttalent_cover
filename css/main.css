@@ -119,7 +119,7 @@ body {
 }
 
 @media screen and (max-width: 915px) {
-  .slogan {
+  .slogan_background {
     left: 8%;
     right: 8%;
     bottom: 10%; 
