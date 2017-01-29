@@ -3,7 +3,7 @@
 \*--------------------*/
 h1 {
   font-family: 'Playfair Display', serif;
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-weight: 300; 
   text-align: center;
   margin-top: 1.5rem;
@@ -112,8 +112,8 @@ body {
   position: absolute;
   background-color: #ffffff;
   bottom: 40%;
-  left: 30%;
-  right: 30%;
+  left: 25%;
+  right: 25%;
   text-align: center;
   opacity: 100;
   padding: 2.5rem 0rem;
