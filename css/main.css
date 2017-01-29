@@ -107,7 +107,7 @@ body {
   height: 100vh; 
 }
 
-.slogan {
+.slogan_background {
   position: absolute;
   background-color: #ffffff;
   bottom: 43%;
@@ -115,7 +115,7 @@ body {
   right: 20%;
   text-align: center;
   opacity: 100;
-  padding: 1rem 0.5rem;
+  padding: 2.5rem 0.5rem;
 }
 
 @media screen and (max-width: 915px) {
