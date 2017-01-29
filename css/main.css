@@ -112,11 +112,11 @@ body {
   position: absolute;
   background-color: #ffffff;
   bottom: 40%;
-  left: 20%;
-  right: 20%;
+  left: 30%;
+  right: 30%;
   text-align: center;
   opacity: 100;
-  padding: 2.5rem 0.5rem;
+  padding: 2.5rem 0rem;
 }
 
 @media screen and (max-width: 915px) {
