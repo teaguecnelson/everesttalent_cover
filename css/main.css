@@ -123,6 +123,7 @@ body {
   .slogan {
     left: 10%;
     right: 10%;
-    bottom: 15%; 
+    bottom: 12%; 
+    padding: 0rem;
   } 
 }
