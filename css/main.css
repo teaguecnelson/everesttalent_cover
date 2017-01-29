@@ -125,7 +125,8 @@ body {
 
 .slogan {
   position: absolute;
-  bottom: 26%;
+  background-color: #f5f5f5;
+  bottom: 46%;
   left: 20%;
   right: 20%;
   text-align: center;
