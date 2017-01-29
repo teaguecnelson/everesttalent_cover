@@ -111,7 +111,7 @@ body {
 .slogan_background {
   position: absolute;
   background-color: #ffffff;
-  bottom: 43%;
+  bottom: 40%;
   left: 20%;
   right: 20%;
   text-align: center;
@@ -123,6 +123,6 @@ body {
   .slogan {
     left: 10%;
     right: 10%;
-    bottom: 30%; 
+    bottom: 18%; 
   } 
 }
